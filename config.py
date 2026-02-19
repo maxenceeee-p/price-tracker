@@ -1,7 +1,7 @@
 # config.py
 
-TELEGRAM_TOKEN = "8259359831:AAGE6LZEfcHnVOdYNZnlp31juSO38j0Icf8"
-TELEGRAM_CHAT_ID = "6271796326"
+TELEGRAM_TOKEN = "telegram_token"
+TELEGRAM_CHAT_ID = "telegram_id"
 
 PRODUCTS = [
     {
